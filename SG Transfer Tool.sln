@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SG Transfer Tool", "SG Transfer Tool\SG Transfer Tool.csproj", "{4BB406E6-5B37-47C6-A537-D1FB22B7E742}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SG Transfer Tool Setup", "SG Transfer Tool Setup\SG Transfer Tool Setup.vdproj", "{012D6CFC-6882-47F0-8E62-0E3B6093B93C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB406E6-5B37-47C6-A537-D1FB22B7E742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB406E6-5B37-47C6-A537-D1FB22B7E742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB406E6-5B37-47C6-A537-D1FB22B7E742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB406E6-5B37-47C6-A537-D1FB22B7E742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012D6CFC-6882-47F0-8E62-0E3B6093B93C}.Debug|Any CPU.ActiveCfg = Debug
+		{012D6CFC-6882-47F0-8E62-0E3B6093B93C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A14849-6F2A-405E-B259-A48647FC9110}
+	EndGlobalSection
+EndGlobal
