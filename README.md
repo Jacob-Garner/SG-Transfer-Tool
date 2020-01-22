@@ -12,11 +12,12 @@ SG Transfer Tool is a simple tool created for Windows that let *The Messenger* p
 
 *How to install:*
 
-1) Download and run *SG Transfer Tool.msi.*
-2) The install wizard will open, click *next*.
-3) Make sure *Just me* in the bottom left hand corner is checked and click *next* again (if *Just me* isn't visible, don't worry about, just click *next.*)
-4) Click *next.* You will get a pop-up asking if you want the app to make changes to your PC. Click *Yes.*
-5) After installation, click *Close* on the *installation complete* window.
+1) Click *SG Transfer Tool.msi* in the repository above, then click *Download* in the upper right hand corner.
+2) Open the installer. You will get a pop-up telling you that you are going to run an unrecognized app. Click *More Info* then *Run Anyway.*
+3) The install wizard will open, click *next*.
+4) Make sure *Just me* in the bottom left hand corner is checked and click *next* again (if *Just me* isn't visible, don't worry about, just click *next.*)
+5) Click *next.* You will get a pop-up asking if you want the app to make changes to your PC. Click *Yes.*
+6) After installation, click *Close* on the *Installation Complete* window.
 
 
 *How to uninstall:*
